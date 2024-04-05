@@ -1,0 +1,3 @@
+[submodule "subfolder/test_submodule"]
+	path = subfolder/test_submodule
+	url = https://github.com/tyffmteam/test_submodule.git
